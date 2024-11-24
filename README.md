@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hadiya-ramzan.
 - 👀 I’m interested in full stack web development.
-- 🌱 I’ve currently started learning HTML & CSS.
-- 📫 How to reach me? hadiaramzan5390@gmail.com
+- 🌱 I’ve currently learning HTML & CSS.
+- 📫 How to reach me? hadiaramzan3090@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: NO HTTPS?? then, help yourself!
 - 😜  Developers made separate websites for desktop and mobile, like siblings who don’t talk. 
